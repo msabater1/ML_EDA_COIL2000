@@ -8,3 +8,7 @@ data: dataset.
 html: EDA in html format.
 notebooks: Jupyter notebook and environment.
 references: Data dictionaries, manuals, etc.
+
+Trabajo realizado por Pablo Mazariegos y Mario Sabater
+
+Link al repositorio en github: https://github.com/msabater1/ML_EDA_P1
